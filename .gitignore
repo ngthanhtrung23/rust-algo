@@ -1,0 +1,8 @@
+# Rust
+*.o
+Cargo.lock
+*.bin
+target/
+
+# Editor / IDE
+*.swp

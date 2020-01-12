@@ -1,0 +1,4 @@
+[package]
+name = "rust-algo"
+version = "0.1.0"
+authors = ["Trung"]

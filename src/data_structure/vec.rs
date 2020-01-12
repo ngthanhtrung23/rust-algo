@@ -1,3 +1,5 @@
+use super::super::scanner::Scanner;
+
 fn main() {
 	let mut scanner = Scanner::default();
 
