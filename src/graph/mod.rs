@@ -1,4 +1,5 @@
 pub mod scc;
+pub mod dsu;
 
 // Common graph representation.
 struct Graph {
